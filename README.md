@@ -2,7 +2,7 @@ Contributors List:
 
 
 Abhishek Rawat [rawatdev](https://github.com/rawatdev) <br/>
-Fatgezim Bela [Zim] (https://github.com/Fatgezimb)
+Fatgezim Bela [Zim](https://github.com/Fatgezimb)
 
 # Getting Started with Create React App
 
