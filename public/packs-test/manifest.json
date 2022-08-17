@@ -1,0 +1,34 @@
+{
+  "application.js": "/packs-test/js/application-b475674a02fb4ab8c2f6.js",
+  "application.js.map": "/packs-test/js/application-b475674a02fb4ab8c2f6.js.map",
+  "entrypoints": {
+    "application": {
+      "js": [
+        "/packs-test/js/application-b475674a02fb4ab8c2f6.js"
+      ],
+      "js.map": [
+        "/packs-test/js/application-b475674a02fb4ab8c2f6.js.map"
+      ]
+    },
+    "proposal_tool_pack": {
+      "js": [
+        "/packs-test/js/proposal_tool_pack-d50b1912508639313439.js"
+      ],
+      "js.map": [
+        "/packs-test/js/proposal_tool_pack-d50b1912508639313439.js.map"
+      ]
+    },
+    "proposal_viewer_pack": {
+      "js": [
+        "/packs-test/js/proposal_viewer_pack-e6155d0597d4598f079b.js"
+      ],
+      "js.map": [
+        "/packs-test/js/proposal_viewer_pack-e6155d0597d4598f079b.js.map"
+      ]
+    }
+  },
+  "proposal_tool_pack.js": "/packs-test/js/proposal_tool_pack-d50b1912508639313439.js",
+  "proposal_tool_pack.js.map": "/packs-test/js/proposal_tool_pack-d50b1912508639313439.js.map",
+  "proposal_viewer_pack.js": "/packs-test/js/proposal_viewer_pack-e6155d0597d4598f079b.js",
+  "proposal_viewer_pack.js.map": "/packs-test/js/proposal_viewer_pack-e6155d0597d4598f079b.js.map"
+}
